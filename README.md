@@ -1,7 +1,7 @@
 This list only includes items with publicly available data or source-code.
 
 # Models
-[GLM](http://aed.see.uwa.edu.au/research/models/GLM/) (General Lake Model)
+[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
 
 [FLake](http://www.flake.igb-berlin.de/)
 
@@ -21,3 +21,5 @@ This list only includes items with publicly available data or source-code.
 [Global Reservoir and Dam Database](http://wp.geog.mcgill.ca/hydrolab/grand/)
 
 [USA National Water Information System](https://waterdata.usgs.gov/nwis)
+
+[Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
