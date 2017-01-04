@@ -9,6 +9,7 @@ This list is a USA-centric collection of models and data sources for limnology. 
 # Databases
 
 ## Global
+[Wikipedia Lists of Lakes](https://en.wikipedia.org/wiki/Lists_of_lakes)
 
 [HydroLAKES](http://hydrosheds.org/page/hydrolakes)
 
