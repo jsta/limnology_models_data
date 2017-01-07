@@ -1,4 +1,4 @@
-This list is a USA-centric collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.
+This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.
 
 # Models
 
@@ -32,6 +32,10 @@ This list is a USA-centric collection of models and data sources for limnology. 
 [USA National Water Information System](https://waterdata.usgs.gov/nwis)
 
 [USA Geographic Names Information System](https://geonames.usgs.gov/domestic/)
+
+## Europe
+
+[European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
 
 ## Regional
 ### Florida
