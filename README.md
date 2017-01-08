@@ -6,6 +6,8 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [FLake](http://www.flake.igb-berlin.de/)
 
+[Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC) 
+
 # Databases
 
 ## Global
