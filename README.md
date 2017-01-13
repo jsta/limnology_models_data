@@ -43,3 +43,6 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 ### Florida
 
 [DBHYDRO](sfwmd.gov/dbhydro)
+
+### Wisconsin
+[WI DNR](dnr.wi.gov/lakes)
