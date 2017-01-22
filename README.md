@@ -37,6 +37,8 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [American Rivers Dam Removal List](https://www.americanrivers.org/threats-solutions/restoring-damaged-rivers/dam-removal-map/)
 
+[USGS Dam Removal Science Database](https://www.sciencebase.gov/catalog/item/55071bf9e4b02e76d757c076)
+
 ## Europe
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
