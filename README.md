@@ -43,6 +43,8 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
 
+[UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
+
 ## Regional
 ### Florida
 
