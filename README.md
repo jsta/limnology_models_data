@@ -23,6 +23,8 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
 
+[Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI)
+
 ## USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla)
