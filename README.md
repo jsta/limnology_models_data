@@ -1,5 +1,6 @@
-# This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.
+**This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.**
 
+----
 ## Models
 
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
