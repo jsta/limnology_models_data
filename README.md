@@ -1,6 +1,6 @@
-This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.
+# This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.
 
-# Models
+## Models
 
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
 
@@ -8,9 +8,9 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC) 
 
-# Databases
+## Databases
 
-## Global
+### International
 [Wikipedia Lists of Lakes](https://en.wikipedia.org/wiki/Lists_of_lakes)
 
 [HydroLAKES](http://hydrosheds.org/page/hydrolakes)
@@ -25,7 +25,7 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI)
 
-## USA
+### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla)
 
@@ -41,20 +41,20 @@ This list is a USA-centric (not USA exclusive) collection of models and data sou
 
 [USGS Dam Removal Science Database](https://www.sciencebase.gov/catalog/item/55071bf9e4b02e76d757c076)
 
-## Canada
+### Canada
 
 [Canada Hydro Features Database](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/23387971-b6d3-4ded-a40b-c8e832b4ea08.html) (Canvec)
 
-## Europe
+### Europe
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
 
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
 
-## Regional
-### Florida
+### Regional
+#### Florida
 
 [DBHYDRO](http://sfwmd.gov/dbhydro)
 
-### Wisconsin
+#### Wisconsin
 [WI DNR](http://dnr.wi.gov/lakes)
