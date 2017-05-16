@@ -59,3 +59,6 @@
 
 #### Wisconsin
 [WI DNR](http://dnr.wi.gov/lakes)
+
+#### Western US
+[Georeferenced Lake Nutrient Chemistry Database](https://figshare.com/articles/GLNC_Database_January_2017/4578544) (GLNC) 
