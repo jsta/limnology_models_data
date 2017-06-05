@@ -57,7 +57,12 @@
 
 [DBHYDRO](http://sfwmd.gov/dbhydro)
 
+#### Minnesota
+
+[MN DNR](http://www.dnr.state.mn.us/lakefind/index.html) (LakeFinder)
+
 #### Wisconsin
+
 [WI DNR](http://dnr.wi.gov/lakes)
 
 #### Western US
