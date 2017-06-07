@@ -3,11 +3,13 @@
 ----
 ## Models
 
-[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
+[Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
 [FLake](http://www.flake.igb-berlin.de/)
 
-[Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC) 
+[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
+
+[CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
 
 ## Databases
 
