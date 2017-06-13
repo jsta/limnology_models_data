@@ -1,15 +1,6 @@
 **This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.**
 
 ----
-## Models
-
-[Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
-
-[FLake](http://www.flake.igb-berlin.de/)
-
-[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
-
-[CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
 
 ## Databases
 
@@ -63,9 +54,21 @@
 
 [MN DNR](http://www.dnr.state.mn.us/lakefind/index.html) (LakeFinder)
 
+[Lake Bathymetric Outlines, Contours, Vegetation, and DEM](https://gisdata.mn.gov/dataset/water-lake-bathymetry)
+
 #### Wisconsin
 
 [WI DNR](http://dnr.wi.gov/lakes)
 
 #### Western US
 [Georeferenced Lake Nutrient Chemistry Database](https://figshare.com/articles/GLNC_Database_January_2017/4578544) (GLNC) 
+
+## Models
+
+[Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
+
+[FLake](http://www.flake.igb-berlin.de/)
+
+[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
+
+[CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
