@@ -72,3 +72,5 @@
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
 
 [CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
+
+[WASP: Water Quality Analysis Simulation Program](http://sdi.odu.edu/model/wasp.php)
