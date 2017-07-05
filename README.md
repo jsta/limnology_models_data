@@ -65,6 +65,8 @@
 
 ## Models
 
+[AQUASIM](http://www.eawag.ch/en/department/siam/software/)
+
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
 [FLake](http://www.flake.igb-berlin.de/)
