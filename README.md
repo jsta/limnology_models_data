@@ -67,12 +67,16 @@
 
 [AQUASIM](http://www.eawag.ch/en/department/siam/software/)
 
+[CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
+
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
 [FLake](http://www.flake.igb-berlin.de/)
 
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
 
-[CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
+[HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
 
 [WASP: Water Quality Analysis Simulation Program](http://sdi.odu.edu/model/wasp.php)
+
+
