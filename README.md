@@ -35,6 +35,8 @@
 
 [USGS Dam Removal Science Database](https://www.sciencebase.gov/catalog/item/55071bf9e4b02e76d757c076)
 
+[National Lake Morphometry Database](https://edg.epa.gov/clipship/)
+
 ### Canada
 
 [Canada Hydro Features Database](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/23387971-b6d3-4ded-a40b-c8e832b4ea08.html) (Canvec)
