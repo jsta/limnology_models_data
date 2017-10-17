@@ -1,7 +1,3 @@
-**This list is a USA-centric (not USA exclusive) collection of models and data sources for limnology. Items are only included if they have publicly available data or source-code.**
-
-----
-
 ## Databases
 
 ### International
