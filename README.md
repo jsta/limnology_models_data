@@ -35,7 +35,7 @@
 
 ### Canada
 
-[Canada Hydro Features Database](http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/23387971-b6d3-4ded-a40b-c8e832b4ea08.html) (Canvec)
+[Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec)
 
 ### Europe
 
