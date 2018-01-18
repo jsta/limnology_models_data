@@ -58,7 +58,12 @@
 
 [WI DNR](http://dnr.wi.gov/lakes)
 
+#### Eastern US
+
+[Lake multi-scaled geospatial and temporal database](lagoslakes.org) (LAGOSNE)
+
 #### Western US
+
 [Georeferenced Lake Nutrient Chemistry Database](https://figshare.com/articles/GLNC_Database_January_2017/4578544) (GLNC) 
 
 ## Models
