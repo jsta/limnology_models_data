@@ -60,7 +60,7 @@
 
 #### Eastern US
 
-[Lake multi-scaled geospatial and temporal database](lagoslakes.org) (LAGOSNE)
+[Lake multi-scaled geospatial and temporal database](https://lagoslakes.org) (LAGOSNE)
 
 #### Western US
 
