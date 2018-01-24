@@ -80,7 +80,7 @@
 
 [HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
 
-[WASP: Water Quality Analysis Simulation Program](http://sdi.odu.edu/model/wasp.php)
+[Water Quality Analysis Simulation Program](http://sdi.odu.edu/model/wasp.php) (WASP)
 
 [Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (GOTM-FABM-PCLake)
 
