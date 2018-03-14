@@ -44,6 +44,11 @@
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
 
 ### Regional
+
+#### North America
+
+[North American River Width Data Set](http://gaia.geosci.unc.edu/NARWidth/index.html#overview) (NARWidth)
+
 #### Florida
 
 [DBHYDRO](http://sfwmd.gov/dbhydro)
