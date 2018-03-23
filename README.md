@@ -35,7 +35,7 @@
 
 ### Canada
 
-[Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec)
+[Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [R package](https://github.com/paleolimbot/rcanvec)
 
 ### Europe
 
