@@ -3,3 +3,5 @@ description: This list is a USA-centric (not USA exclusive) collection of models
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jemoji
