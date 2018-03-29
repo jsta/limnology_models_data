@@ -43,6 +43,10 @@
 
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
 
+### Australia
+
+[Australian Hydrological Geospatial Fabric ](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
+
 ### Regional
 
 #### North America
