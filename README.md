@@ -1,7 +1,7 @@
 ## Databases
 
 ### International
-[Wikipedia Lists of Lakes](https://en.wikipedia.org/wiki/Lists_of_lakes)
+[Wikipedia Lists of Lakes](https://en.wikipedia.org/wiki/Lists_of_lakes) [:package:](https://github.com/jsta/wikilake)
 
 [HydroLAKES](http://hydrosheds.org/page/hydrolakes)
 
@@ -17,9 +17,9 @@
 
 ### USA
 
-[USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla)
+[USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR)
 
-[USA National Hydography Dataset](http://nhd.usgs.gov/data.html)
+[USA National Hydography Dataset](http://nhd.usgs.gov/data.html) [:package:](https://github.com/jsta/nhdR)
 
 [USA National Inventory of Dams](http://nid.usace.army.mil/)
 
@@ -55,7 +55,7 @@
 
 #### Florida
 
-[DBHYDRO](http://sfwmd.gov/dbhydro)
+[DBHYDRO](http://sfwmd.gov/dbhydro) [:package:](https://github.com/ropenscilabs/dbhydroR)
 
 #### Minnesota
 
