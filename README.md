@@ -21,7 +21,7 @@
 
 [USA National Hydography Dataset](http://nhd.usgs.gov/data.html) [:package:](https://github.com/jsta/nhdR)
 
-[USA National Inventory of Dams](http://nid.usace.army.mil/)
+[USA National Inventory of Dams](http://nid.usace.army.mil/) [:package:](https://github.com/jsta/dams)
 
 [USA National Water Information System](https://waterdata.usgs.gov/nwis)
 
