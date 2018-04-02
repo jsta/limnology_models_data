@@ -33,6 +33,8 @@
 
 [National Lake Morphometry Database](https://edg.epa.gov/clipship/)
 
+[A Reservoir Morphology Database for the Conterminous United States](https://doi.org/10.5066/F7GF0RQZ)
+
 ### Canada
 
 [Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
