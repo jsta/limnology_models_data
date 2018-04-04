@@ -9,7 +9,7 @@
 
 [Global Lakes and Wetlands Database](http://wp.geog.mcgill.ca/hydrolab/glwd/)[:package:](https://github.com/jsta/glwdr)
 
-[Global Reservoir and Dam Database](http://wp.geog.mcgill.ca/hydrolab/grand/)
+[Global Reservoir and Dam Database](http://wp.geog.mcgill.ca/hydrolab/grand/) (GranD)
 
 [Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
 
