@@ -13,7 +13,7 @@
 
 [Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
 
-[Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI)
+[Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI) [:package:](https://github.com/DHI-GRAS/dahiti)
 
 ### USA
 
