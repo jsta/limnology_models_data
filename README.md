@@ -7,7 +7,7 @@
 
 [World Lake Database](http://wldb.ilec.or.jp/)
 
-[Global Lakes and Wetlands Database](http://wp.geog.mcgill.ca/hydrolab/glwd/)
+[Global Lakes and Wetlands Database](http://wp.geog.mcgill.ca/hydrolab/glwd/)[:package:](https://github.com/jsta/glwdr)
 
 [Global Reservoir and Dam Database](http://wp.geog.mcgill.ca/hydrolab/grand/)
 
