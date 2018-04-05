@@ -47,7 +47,11 @@
 
 ### Australia
 
-[Australian Hydrological Geospatial Fabric ](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
+[Australian Hydrological Geospatial Fabric](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
+
+### Sweden
+
+[Water Information System Sweden](http://viss.lansstyrelsen.se/Maps.aspx)
 
 ### Regional
 
