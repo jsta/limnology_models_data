@@ -53,6 +53,10 @@
 
 [Water Information System Sweden](http://viss.lansstyrelsen.se/Maps.aspx)
 
+### Netherlands
+
+[Rijkswaterstaat ("National Waterlevels")](https://www.rijkswaterstaat.nl/water/waterdata-en-waterberichtgeving/waterdata)
+
 ### Regional
 
 #### North America
