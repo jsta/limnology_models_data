@@ -35,7 +35,7 @@
 
 [A Reservoir Morphology Database for the Conterminous United States](https://doi.org/10.5066/F7GF0RQZ)
 
-[Water-quality, stream-flow, and ancillary data for nutrients in streams and rivers across the Nation, 1992–2001](http://pubs.usgs.gov/ds/2005/152)
+[Water-quality, stream-flow, and ancillary data for nutrients in streams and rivers across the Nation, 1992–2001](http://pubs.usgs.gov/ds/2005/152) (NAWQA)
 
 ### Canada
 
