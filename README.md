@@ -45,7 +45,11 @@
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
 
+### UK
+
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
+
+[UK Lakes Portal](https://eip.ceh.ac.uk/apps/lakes/index.html)
 
 ### Australia
 
