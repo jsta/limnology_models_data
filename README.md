@@ -19,6 +19,8 @@
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR)
 
+[USA National Eutrophication Survey](https://doi.org/10.5194/essd-2017-52) [:package:](https://github.com/jsta/nesRdata)
+
 [USA National Hydography Dataset](http://nhd.usgs.gov/data.html) [:package:](https://github.com/jsta/nhdR)
 
 [USA National Inventory of Dams](http://nid.usace.army.mil/) [:package:](https://github.com/jsta/dams)
