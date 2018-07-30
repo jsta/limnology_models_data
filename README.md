@@ -39,6 +39,8 @@
 
 [Water-quality, stream-flow, and ancillary data for nutrients in streams and rivers across the Nation, 1992–2001](http://pubs.usgs.gov/ds/2005/152) (NAWQA)
 
+[The Hydro Network-Linked Data Index](https://github.com/ACWI-SSWD/nldi-services/blob/master/README.md) (NLDI)
+
 ### Canada
 
 [Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
