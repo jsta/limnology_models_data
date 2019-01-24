@@ -31,7 +31,7 @@
 
 [American Rivers Dam Removal List](https://www.americanrivers.org/threats-solutions/restoring-damaged-rivers/dam-removal-map/)
 
-[USGS Dam Removal Science Database](https://www.sciencebase.gov/catalog/item/55071bf9e4b02e76d757c076)
+[USGS Dam Removal Science Database](https://doi.org/10.5066/P9IGEC9G)
 
 [National Lake Morphometry Database](https://edg.epa.gov/clipship/)
 
