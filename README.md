@@ -45,6 +45,8 @@
 
 [National Anthropogenic Barrier Dataset](https://www.sciencebase.gov/catalog/item/56a7f9dce4b0b28f1184dabd) (NABD)
 
+[National Surface Water Survey](https://archive.epa.gov/emap/archive-emap/web/html/els.html) [:package:](https://github.com/jsta/nsws) (NSWS)
+
 ### Canada
 
 [Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
