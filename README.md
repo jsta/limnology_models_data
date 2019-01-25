@@ -43,6 +43,8 @@
 
 [Dam Metrics Representing Stream Fragmentation and Flow Alteration](https://doi.org/10.5066/F7FN14C5)
 
+[National Anthropogenic Barrier Dataset](https://www.sciencebase.gov/catalog/item/56a7f9dce4b0b28f1184dabd) (NABD)
+
 ### Canada
 
 [Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
