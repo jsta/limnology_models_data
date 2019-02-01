@@ -102,7 +102,12 @@
 [Georeferenced Lake Nutrient Chemistry Database](https://figshare.com/articles/GLNC_Database_January_2017/4578544) (GLNC)
 
 #### British Columbia
+
 [BC Freshwater Atlas](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater) [:package:](https://github.com/poissonconsulting/fwabc)
+
+#### North American Great Lakes
+
+[Great Lakes Hydrography Dataset](https://www.glahf.org/watersheds/) (GLHD)
 
 ## Models
 
