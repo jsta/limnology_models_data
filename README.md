@@ -15,6 +15,8 @@
 
 [Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI) [:package:](https://github.com/DHI-GRAS/dahiti)
 
+[StreamPULSE: High frequency stream metabolism data](https://data.streampulse.org/) 
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
