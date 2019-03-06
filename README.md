@@ -15,7 +15,9 @@
 
 [Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI) [:package:](https://github.com/DHI-GRAS/dahiti)
 
-[StreamPULSE: High frequency stream metabolism data](https://data.streampulse.org/) 
+[StreamPULSE: High frequency stream metabolism data](https://data.streampulse.org/)
+
+[GEMS-GLORI world river discharge database](https://doi.org/10.1594/PANGAEA.804574)
 
 ### USA
 
