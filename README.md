@@ -85,7 +85,7 @@
 
 #### Florida
 
-[DBHYDRO](http://sfwmd.gov/dbhydro) [:package:](https://github.com/ropenscilabs/dbhydroR)
+[DBHYDRO](https://www.sfwmd.gov/science-data/dbhydro) [:package:](https://github.com/ropenscilabs/dbhydroR)
 
 #### Minnesota
 
