@@ -19,6 +19,8 @@
 
 [GEMS-GLORI world river discharge database](https://doi.org/10.1594/PANGAEA.804574)
 
+[Greenhouse gas emissions from lakes and impoundments (Delsontro et al. 2018)](https://doi.org/10.6084/m9.figshare.5220001)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
