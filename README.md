@@ -21,6 +21,8 @@
 
 [Greenhouse gas emissions from lakes and impoundments (Delsontro et al. 2018)](https://doi.org/10.6084/m9.figshare.5220001)
 
+[Global Lake and River Ice Phenology Database](https://nsidc.org/data/lake_river_ice/)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
