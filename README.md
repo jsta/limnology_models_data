@@ -105,6 +105,10 @@
 
 [WI DNR](http://dnr.wi.gov/lakes)
 
+#### Vermont
+
+[VT DEC](https://dec.vermont.gov/watershed/lakes-ponds/data-maps)
+
 #### Eastern US
 
 [Lake multi-scaled geospatial and temporal database](https://lagoslakes.org) (LAGOSNE) [:package:](https://github.com/cont-limno/LAGOSNE)
