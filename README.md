@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jsta/limnology_models_data.svg?branch=master)](https://travis-ci.org/jsta/limnology_models_data)
+[![Build Status](https://travis-ci.org/jsta/limnology_models_data.svg?branch=master)](https://travis-ci.org/jsta/limnology_models_data) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Databases
 
