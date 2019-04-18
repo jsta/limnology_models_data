@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jsta/limnology_models_data.svg?branch=master)](https://travis-ci.org/jsta/limnology_models_data)
+
 ## Databases
 
 ### International
@@ -140,8 +142,6 @@
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
 
 [HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
-
-[Water Quality Analysis Simulation Program](http://sdi.odu.edu/model/wasp.php) (WASP)
 
 [Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (GOTM-FABM-PCLake)
 
