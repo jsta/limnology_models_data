@@ -23,6 +23,8 @@
 
 [Global Lake and River Ice Phenology Database](https://nsidc.org/data/lake_river_ice/)
 
+[Global Surface Water Dataset](https://doi.org/10.1038/nature20584) (GSW)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
