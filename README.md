@@ -59,6 +59,8 @@
 
 [National Surface Water Survey](https://archive.epa.gov/emap/archive-emap/web/html/els.html) [:package:](https://github.com/jsta/nsws) (NSWS)
 
+[Changes in anthropogenic influences on streams and rivers in the conterminous U.S. over the last 40 years](https://doi.org/10.5066/F7XW4J1J)
+
 ### Canada
 
 [Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
