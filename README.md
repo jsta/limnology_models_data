@@ -63,7 +63,7 @@
 
 ### Canada
 
-[Canada Hydro Features Database](http://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
+[Canada Hydro Features Database](https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
 
 [National Water Data Archive](http://collaboration.cmc.ec.gc.ca/cmc/hydrometrics/www/) (HYDAT) [:package:](https://github.com/ropensci/tidyhydat)
 
