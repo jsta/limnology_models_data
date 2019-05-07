@@ -5,13 +5,13 @@
 ### International
 [Wikipedia Lists of Lakes](https://en.wikipedia.org/wiki/Lists_of_lakes) [:package:](https://github.com/jsta/wikilake)
 
-[HydroLAKES](http://hydrosheds.org/page/hydrolakes) [:package:](https://github.com/lawinslow/hydrolinks)
+[HydroLAKES](https://github.com/lawinslow/hydrolinks) [:package:](https://github.com/lawinslow/hydrolinks)
 
 [World Lake Database](http://wldb.ilec.or.jp/)
 
-[Global Lakes and Wetlands Database](http://wp.geog.mcgill.ca/hydrolab/glwd/) [:package:](https://github.com/jsta/glwdr)
+[Global Lakes and Wetlands Database](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database) [:package:](https://github.com/jsta/glwdr)
 
-[Global Reservoir and Dam Database](http://wp.geog.mcgill.ca/hydrolab/grand/) (GranD)
+[Global Reservoir and Dam Database](https://sedac.ciesin.columbia.edu/data/set/grand-v1-reservoirs-rev01) (GranD)
 
 [Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
 
