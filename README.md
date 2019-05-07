@@ -107,6 +107,10 @@
 
 [Lake Bathymetric Outlines, Contours, Vegetation, and DEM](https://gisdata.mn.gov/dataset/water-lake-bathymetry)
 
+#### Oregon
+
+[Atlas of Oregon Lakes](http://www.aol.research.pdx.edu/lakes)
+
 #### Wisconsin
 
 [WI DNR](http://dnr.wi.gov/lakes)
