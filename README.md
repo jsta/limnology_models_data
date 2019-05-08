@@ -5,7 +5,7 @@
 ### International
 [Wikipedia Lists of Lakes](https://en.wikipedia.org/wiki/Lists_of_lakes) [:package:](https://github.com/jsta/wikilake)
 
-[HydroLAKES](https://github.com/lawinslow/hydrolinks) [:package:](https://github.com/lawinslow/hydrolinks)
+[HydroLAKES](https://www.hydrosheds.org/pages/hydrolakes) [:package:](https://github.com/lawinslow/hydrolinks)
 
 [World Lake Database](http://wldb.ilec.or.jp/)
 
