@@ -73,6 +73,8 @@
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
 
+[Water Framework Directive - Catchment Data Explorer](https://environment.data.gov.uk/catchment-planning/) [:package:](https://github.com/robbriers/cde)
+
 ### UK
 
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
