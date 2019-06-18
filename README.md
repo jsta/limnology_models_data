@@ -101,6 +101,10 @@
 
 [North American River Width Data Set](http://gaia.geosci.unc.edu/NARWidth/index.html#overview) (NARWidth)
 
+#### Connecticut
+
+[Connecticut Lake Bathymetry Contours](http://cteco.uconn.edu/guides/Lake_Bathymetry.htm)
+
 #### Florida
 
 [DBHYDRO](https://www.sfwmd.gov/science-data/dbhydro) [:package:](https://github.com/ropenscilabs/dbhydroR)
