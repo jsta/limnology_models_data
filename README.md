@@ -77,6 +77,8 @@
 
 [Water Framework Directive - Catchment Data Explorer](https://environment.data.gov.uk/catchment-planning/) [:package:](https://github.com/robbriers/cde)
 
+[European Multi Lake Survey](https://doi.org/10.1038/sdata.2018.226)
+
 ### UK
 
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
