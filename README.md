@@ -31,6 +31,8 @@
 
 [Global Reservoir Surface Area Dataset](https://doi.org/10.18738/T8/DF80WG) (GRSAD)
 
+[Global Reservoir Geometry Database](https://zenodo.org/record/1322884#.XCzl4lxKiUk) (ReGeomData)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
