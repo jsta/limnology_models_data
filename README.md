@@ -15,6 +15,8 @@
 
 [Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
 
+[Dams, lakes and reservoirs database](http://wwdrii.sr.unh.edu/) (World Water Development Report II) 
+
 [Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI) [:package:](https://github.com/DHI-GRAS/dahiti)
 
 [StreamPULSE: High frequency stream metabolism data](https://data.streampulse.org/)
