@@ -97,6 +97,8 @@
 
 [Water Information System Sweden](http://viss.lansstyrelsen.se/Maps.aspx)
 
+[Swedish Lake Register](https://vattenwebb.smhi.se/svarwebb/)
+
 ### Netherlands
 
 [Rijkswaterstaat ("National Waterlevels")](https://www.rijkswaterstaat.nl/water/waterdata-en-waterberichtgeving/waterdata)
