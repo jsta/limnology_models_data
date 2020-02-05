@@ -13,7 +13,7 @@
 
 [Global Reservoir and Dam Database](https://sedac.ciesin.columbia.edu/data/set/grand-v1-reservoirs-rev01) (GranD)
 
-[Global Lake Database](http://www.flake.igb-berlin.de/ep-data.shtml) (GLDB)
+[Global Lake Database](http://www.flake.igb-berlin.de/old/ep-data.shtml) (GLDB)
 
 [Dams, lakes and reservoirs database](http://wwdrii.sr.unh.edu/) (World Water Development Report II) 
 
