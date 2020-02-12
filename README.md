@@ -170,3 +170,8 @@
 [Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (GOTM-FABM-PCLake)
 
 [Raven Hydrological Modelling Framework](http://raven.uwaterloo.ca/Main.html)
+
+[Precipitation Runoff Modeling System](https://www.usgs.gov/software/precipitation-runoff-modeling-system-prms) (PRMS)
+
+[Variable Infiltration Capacity Model](https://github.com/UW-Hydro/VIC) (VIC)
+
