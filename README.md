@@ -9,7 +9,9 @@
 
 [World Lake Database](http://wldb.ilec.or.jp/)
 
-[Global Lakes and Wetlands Database](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database) [:package:](https://github.com/jsta/glwdr)
+[GloboLakes: high-resolution global limnology dataset](http://dx.doi.org/10.5285/6be871bc-9572-4345-bb9a-2c42d9d85ceb)
+
+[Global Lakes and Wetlands Database](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database) [:package:](https://github.com/jsta/glwdr) (GLWD)
 
 [Global Reservoir and Dam Database](https://sedac.ciesin.columbia.edu/data/set/grand-v1-reservoirs-rev01) (GranD)
 
