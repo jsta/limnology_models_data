@@ -47,7 +47,7 @@
 
 [USA National Inventory of Dams](http://nid.usace.army.mil/) [:package:](https://github.com/jsta/dams) (NID)
 
-[USA National Water Information System](https://waterdata.usgs.gov/nwis) (NWIS)
+[USA National Water Information System](https://waterdata.usgs.gov/nwis) [:package:](https://github.com/USGS-R/dataRetrieval) (NWIS)
 
 [USA Geographic Names Information System](https://geonames.usgs.gov/domestic/) (GNIS)
 
