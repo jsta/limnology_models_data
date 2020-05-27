@@ -131,7 +131,7 @@
 
 #### Oregon
 
-[Atlas of Oregon Lakes](http://www.aol.research.pdx.edu/lakes)
+[Atlas of Oregon Lakes](https://oregonlakesatlas.org)
 
 #### Wisconsin
 
