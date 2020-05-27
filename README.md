@@ -15,7 +15,7 @@
 
 [Global Reservoir and Dam Database](https://sedac.ciesin.columbia.edu/data/set/grand-v1-reservoirs-rev01) (GranD)
 
-[Global Lake Database](http://www.flake.igb-berlin.de/old/ep-data.shtml) (GLDB)
+[Global Lake Database](www.flake.igb-berlin.de/old/ep-data.shtml) (GLDB)
 
 [Dams, lakes and reservoirs database](http://wwdrii.sr.unh.edu/) (World Water Development Report II) 
 
@@ -34,6 +34,8 @@
 [Global Reservoir Surface Area Dataset](https://doi.org/10.18738/T8/DF80WG) (GRSAD)
 
 [Global Reservoir Geometry Database](https://zenodo.org/record/1322884#.XCzl4lxKiUk) (ReGeomData)
+
+[Near-global environmental information for freshwater ecosystems in 1km resolution](https://www.earthenv.org/streams) (EarthEnv)
 
 ### USA
 
