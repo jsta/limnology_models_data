@@ -7,6 +7,8 @@
 
 [HydroLAKES](https://www.hydrosheds.org/pages/hydrolakes) [:package:](https://github.com/lawinslow/hydrolinks)
 
+[HydroATLAS](https://www.hydrosheds.org/page/hydroatlas) 
+
 [World Lake Database](http://wldb.ilec.or.jp/)
 
 [GloboLakes: high-resolution global limnology dataset](http://dx.doi.org/10.5285/6be871bc-9572-4345-bb9a-2c42d9d85ceb)
