@@ -41,6 +41,8 @@
 
 [Near-global environmental information for freshwater ecosystems in 1km resolution](https://www.earthenv.org/streams) (EarthEnv)
 
+[Reservoir and Lake Surface Area Timeseries-Reservoirs](http://umnlcc.cs.umn.edu/realsat/reservoirs/) (ReaLSAT-R)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
