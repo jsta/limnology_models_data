@@ -79,6 +79,8 @@
 
 [Lotic Intersite Nitrogen eXperiment II (LINX II): nitrate uptake and retention in 72 streams across 8 different biomes (2003 – 2006).](https://doi.org/10.6073/pasta/eac34b6c1cfb0268dd76ef68a7a90bfc)
 
+[AquaSat: A Data Set to Enable Remote Sensing of Water Quality for Inland Waters](https://figshare.com/articles/dataset/AquaSat/8139383)
+
 ### Canada
 
 [Canada Hydro Features Database](https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
