@@ -1,4 +1,4 @@
 language: ruby
 rvm: 2.4.1
 before_script: gem install awesome_bot
-script: awesome_bot --allow-redirect --allow-dupe --allow 503 --set-timeout 80 --white-list "open.canada.ca" README.md
+script: awesome_bot --allow-redirect --allow-dupe --allow 503 --set-timeout 80 --white-list "open.canada.ca" --allow-ssl README.md
