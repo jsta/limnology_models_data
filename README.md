@@ -81,6 +81,9 @@
 
 [AquaSat: A Data Set to Enable Remote Sensing of Water Quality for Inland Waters](https://figshare.com/articles/dataset/AquaSat/8139383)
 
+[CAMELS: Large-Sample Hydrometeorological Dataset](https://ncar.github.io/hydrology/datasets/CAMELS_timeseries)
+
+
 ### Canada
 
 [Canada Hydro Features Database](https://open.canada.ca/data/en/dataset/9d96e8c9-22fe-4ad2-b5e8-94a6991b744b) (Canvec) [:package:](https://github.com/paleolimbot/rcanvec)
