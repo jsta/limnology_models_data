@@ -106,6 +106,8 @@
 
 [UK Lakes Portal](https://eip.ceh.ac.uk/apps/lakes/index.html)
 
+[Environment Agency - Water Quality Archive](https://environment.data.gov.uk/water-quality/view/doc/reference)
+
 ### Australia
 
 [Australian Hydrological Geospatial Fabric](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
