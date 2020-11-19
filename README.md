@@ -43,6 +43,10 @@
 
 [Reservoir and Lake Surface Area Timeseries-Reservoirs](http://umnlcc.cs.umn.edu/realsat/reservoirs/) (ReaLSAT-R)
 
+[Global River Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glorich.html) (GLORICH)
+
+[Global Water Chemistry Database][https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glowachem.html] (GLOWACHEM)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
