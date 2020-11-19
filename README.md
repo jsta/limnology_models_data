@@ -45,7 +45,7 @@
 
 [Global River Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glorich.html) (GLORICH)
 
-[Global Water Chemistry Database][https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glowachem.html] (GLOWACHEM)
+[Global Water Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glowachem.html) (GLOWACHEM)
 
 ### USA
 
