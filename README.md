@@ -198,5 +198,7 @@
 
 [Precipitation Runoff Modeling System](https://www.usgs.gov/software/precipitation-runoff-modeling-system-prms) (PRMS)
 
+[Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat)
+
 [Variable Infiltration Capacity Model](https://github.com/UW-Hydro/VIC) (VIC)
 
