@@ -186,19 +186,20 @@
 
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
-[FLake](http://www.flake.igb-berlin.de/)
+[FLake](http://www.flake.igb-berlin.de/) [:package:](https://github.com/aemon-j/FLakeR)
 
-[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM)
+[General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM) [:package:](https://github.com/GLEON/GLM3r)
 
 [HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
 
-[Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (GOTM-FABM-PCLake)
-
-[Raven Hydrological Modelling Framework](http://raven.uwaterloo.ca/Main.html)
+[MyLake](https://github.com/biogeochemistry/MyLake_public) [:package:](https://github.com/aemon-j/MyLakeR)
 
 [Precipitation Runoff Modeling System](https://www.usgs.gov/software/precipitation-runoff-modeling-system-prms) (PRMS)
 
-[Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat)
+[Raven Hydrological Modelling Framework](http://raven.uwaterloo.ca/Main.html) [:package:](https://github.com/CSHS-CWRA/RavenPy)
+
+[Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat) [:package:](https://github.com/aemon-j/SimstratR)
 
 [Variable Infiltration Capacity Model](https://github.com/UW-Hydro/VIC) (VIC)
 
+[Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (GOTM-FABM-PCLake)
