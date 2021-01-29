@@ -87,7 +87,7 @@
 
 [CAMELS: Large-Sample Hydrometeorological Dataset](https://ncar.github.io/hydrology/datasets/CAMELS_timeseries)
 
-[SPARROW: simulated streamflow, nutrient and suspended-sediment loads in streams of the Midwestern United States](https://doi.org/10.5066/P93QMXC9)
+[SPARROW: simulated streamflow, nutrient and suspended-sediment loads in the United States](https://www.usgs.gov/mission-areas/water-resources/science/sparrow-mappers?qt-science_center_objects=0#qt-science_center_objects)
 
 
 ### Canada
