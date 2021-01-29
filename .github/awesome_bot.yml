@@ -1,0 +1,23 @@
+name: awesome_bot
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Checks
+      run: |        
+        gem install awesome_bot        
+        awesome_bot --allow-redirect --allow-dupe --allow 503 --set-timeout 100 --white-list "open.canada.ca" --allow-ssl README.md
