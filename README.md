@@ -202,6 +202,8 @@
 
 [Simstrat](https://github.com/Eawag-AppliedSystemAnalysis/Simstrat) [:package:](https://github.com/aemon-j/SimstratR)
 
+[SPARROW](https://github.com/USGS-R/RSPARROW) [:package:](https://github.com/USGS-R/RSPARROW)
+
 [Variable Infiltration Capacity Model](https://github.com/UW-Hydro/VIC) (VIC)
 
-[Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (GOTM-FABM-PCLake)
+[Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (WET, GOTM-FABM-PCLake)
