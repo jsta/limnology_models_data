@@ -47,6 +47,8 @@
 
 [Global Water Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glowachem.html) (GLOWACHEM)
 
+[Global Reservoirs and Lakes Monitor](https://ipad.fas.usda.gov/cropexplorer/global_reservoir/) (G-REALM)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
