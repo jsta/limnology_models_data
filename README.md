@@ -118,6 +118,8 @@
 
 [Environment Agency - Water Quality Archive](https://environment.data.gov.uk/water-quality/view/doc/reference)
 
+[UK National River Flow Archive](https://nrfa.ceh.ac.uk/) (NRFA) [:package:](https://github.com/cvitolo/rnrfa)
+
 ### Australia
 
 [Australian Hydrological Geospatial Fabric](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
