@@ -51,6 +51,9 @@
 
 [Time series of water levels in the rivers and lakes around the world](http://hydroweb.theia-land.fr/) (Hydroweb)
 
+[Global Georeferenced Database of Dams](https://doi.org/10.6084/m9.figshare.c.4648214.v1) (GOODD)
+
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
