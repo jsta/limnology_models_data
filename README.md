@@ -105,6 +105,7 @@
 
 [IceWatch](https://www.naturewatch.ca/icewatch/)
 
+
 ### Europe
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
@@ -160,6 +161,10 @@
 [MN DNR](http://www.dnr.state.mn.us/lakefind/index.html) (LakeFinder)
 
 [Lake Bathymetric Outlines, Contours, Vegetation, and DEM](https://gisdata.mn.gov/dataset/water-lake-bathymetry)
+
+#### Ontario
+
+[Provincial (Stream) Water Quality Monitoring Network](https://data.ontario.ca/dataset/provincial-stream-water-quality-monitoring-network)
 
 #### Oregon
 
