@@ -43,9 +43,9 @@
 
 [Reservoir and Lake Surface Area Timeseries-Reservoirs](http://umnlcc.cs.umn.edu/realsat/reservoirs/) (ReaLSAT-R)
 
-[Global River Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glorich.html) (GLORICH)
+[Global River Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glorich.html) (GLORICH)
 
-[Global Water Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/geochemie/glowachem.html) (GLOWACHEM)
+[Global Water Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glowachem.html) (GLOWACHEM)
 
 [Global Reservoirs and Lakes Monitor](https://ipad.fas.usda.gov/cropexplorer/global_reservoir/) (G-REALM)
 
