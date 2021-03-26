@@ -134,6 +134,8 @@
 
 [Swedish Lake Register](https://vattenwebb.smhi.se/svarwebb/)
 
+[SLU - long-term monitoring of lakes](https://miljodata.slu.se/MVM/Search)
+
 ### Switzerland
 
 [National long-term surveillance of Swiss rivers](https://doi.org/10.25678/0002A0) (NADUF)
