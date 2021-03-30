@@ -53,6 +53,8 @@
 
 [Global Georeferenced Database of Dams](https://doi.org/10.6084/m9.figshare.c.4648214.v1) (GOODD)
 
+[Global River Widths from Landsat Database](https://doi.org/10.5281/zenodo.1269594) (GRWL) 
+
 
 ### USA
 
