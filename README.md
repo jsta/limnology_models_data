@@ -204,6 +204,8 @@
 
 ## Models
 
+[Advanced Lake Biogeochemistry Model](https://github.com/tanzeli1982/ALBM) (ALBM)
+
 [AQUASIM](http://www.eawag.ch/en/department/siam/software/)
 
 [CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
