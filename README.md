@@ -59,6 +59,8 @@
 
 [Simulated Topological Networks](https://wsag.unh.edu/Stn-30/stn-30.html) (STN)
 
+[Lake origin/formation classifications (Sharma and Bryne. 2011)](https://doi.org/10.1029/2011GL049577) See supplement(s)
+
 
 ### USA
 
@@ -169,6 +171,10 @@
 [MN DNR](http://www.dnr.state.mn.us/lakefind/index.html) (LakeFinder)
 
 [Lake Bathymetric Outlines, Contours, Vegetation, and DEM](https://gisdata.mn.gov/dataset/water-lake-bathymetry)
+
+#### New York
+
+[Adirondack Lakes Survey](http://www.adirondacklakessurvey.org/historic.php) (ALS)
 
 #### Ontario
 
