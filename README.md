@@ -61,6 +61,8 @@
 
 [Lake origin/formation classifications (Sharma and Bryne. 2011)](https://doi.org/10.1029/2011GL049577) See supplement(s)
 
+[Global Streamflow Indices and Metadata Archive](https://doi.org/10.1594/PANGAEA.887470) (GSIM)
+
 
 ### USA
 
