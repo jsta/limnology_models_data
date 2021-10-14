@@ -63,6 +63,8 @@
 
 [Global Streamflow Indices and Metadata Archive](https://doi.org/10.1594/PANGAEA.887470) (GSIM)
 
+[Geonames](http://download.geonames.org/export/dump/)
+
 
 ### USA
 
