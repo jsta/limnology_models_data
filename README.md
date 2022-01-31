@@ -69,6 +69,8 @@
 
 [Global Lake Level Database](https://github.com/ESIPFed/Global-Lake-Level-Database) (GLLD)
 
+[Global database on dissolved carbon in soil solution](https://doi.org/10.1594/PANGAEA.911161) (Langeveld et al. 2020)
+
 
 ### USA
 
