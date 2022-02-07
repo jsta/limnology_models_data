@@ -41,7 +41,7 @@
 
 [Near-global environmental information for freshwater ecosystems in 1km resolution](https://www.earthenv.org/streams) (EarthEnv)
 
-[Reservoir and Lake Surface Area Timeseries-Reservoirs](http://umnlcc.cs.umn.edu/realsat/reservoirs/) (ReaLSAT-R)
+[Reservoir and Lake Surface Area Timeseries](https://terracover.ai/realsat/) (ReaLSAT)
 
 [Global River Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glorich.html) (GLORICH)
 
