@@ -71,6 +71,8 @@
 
 [Global database on dissolved carbon in soil solution](https://doi.org/10.1594/PANGAEA.911161) (Langeveld et al. 2020)
 
+[the Global Lakes Bathymetry Dataset](https://doi.org/10.6084/m9.figshare.c.5243309.v1) (GLOBathy)
+
 
 ### USA
 
