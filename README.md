@@ -204,7 +204,7 @@
 
 #### Vermont
 
-[VT DEC](https://dec.vermont.gov/watershed/lakes-ponds/data-maps)
+[VT DEC](https://dec.vermont.gov/watershed/lakes-ponds)
 
 #### Eastern US
 
