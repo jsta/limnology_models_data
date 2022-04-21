@@ -251,3 +251,5 @@
 [Variable Infiltration Capacity Model](https://github.com/UW-Hydro/VIC) (VIC)
 
 [Water Ecosystems Tool](http://projects.au.dk/wet/about-wet/) (WET, GOTM-FABM-PCLake)
+
+[the Wetland DEM Ponding Model](https://github.com/CentreForHydrology/WDPM) (WDPM)
