@@ -73,6 +73,8 @@
 
 [the Global Lakes Bathymetry Dataset](https://doi.org/10.6084/m9.figshare.c.5243309.v1) (GLOBathy)
 
+[Georeferenced global Dams And Reservoirs](https://doi.org/10.5281/zenodo.6163412) (GeoDAR)
+
 
 ### USA
 
