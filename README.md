@@ -240,6 +240,8 @@
 
 [HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
 
+[LAKE](https://mathmod.org/lake/)
+
 [MyLake](https://github.com/biogeochemistry/MyLake_public) [:package:](https://github.com/aemon-j/MyLakeR)
 
 [Precipitation Runoff Modeling System](https://www.usgs.gov/software/precipitation-runoff-modeling-system-prms) (PRMS)
