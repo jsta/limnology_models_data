@@ -120,6 +120,8 @@
 
 [Database for hydrometeorological modeling of 14,425 North American watersheds](https://doi.org/10.6084/m9.figshare.12600281.v1) (HYSETS)
 
+[Geospatial Attributes of Gages for Evaluating Streamflow](https://doi.org/10.3133/70046617) (GAGES-II)
+
 
 ### Canada
 
