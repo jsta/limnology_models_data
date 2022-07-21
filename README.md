@@ -17,7 +17,7 @@
 
 [Global Lake area, Climate, and Population dataset](https://doi.org/10.6073/pasta/834e2d4e8ee7eb2fa9a5a5b32d759683) (GLCP)
 
-[Global Reservoir and Dam Database](https://sedac.ciesin.columbia.edu/data/set/grand-v1-reservoirs-rev01) (GranD)
+[Global Reservoir and Dam Database](https://doi.org/10.7927/H4HH6H08) (GranD)
 
 [Global Lake Database](http://www.flake.igb-berlin.de/old/ep-data.shtml) (GLDB)
 
