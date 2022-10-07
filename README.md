@@ -122,6 +122,8 @@
 
 [Geospatial Attributes of Gages for Evaluating Streamflow](https://doi.org/10.3133/70046617) (GAGES-II)
 
+[Hydropower Infrastructure - LAkes, Reservoirs, and RIvers](https://doi.org/10.21951/HILARRI/1781642) (HILARRI)
+
 
 ### Canada
 
