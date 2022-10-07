@@ -94,7 +94,7 @@
 
 [USGS Dam Removal Science Database](https://doi.org/10.5066/P9IGEC9G)
 
-[National Lake Morphometry Database](https://edg.epa.gov/clipship/)
+[National Lake Morphometry Database](https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={58817BB9-7303-489C-8CB2-5F6048C9C41E})
 
 [A Reservoir Morphology Database for the Conterminous United States](https://doi.org/10.5066/F7GF0RQZ)
 
