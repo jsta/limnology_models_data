@@ -75,6 +75,7 @@
 
 [Georeferenced global Dams And Reservoirs](https://doi.org/10.5281/zenodo.6163412) (GeoDAR)
 
+[The global river database of methane concentrations and fluxes](https://doi.org/10.5194/essd-2022-346) (GRiMeDB)
 
 ### USA
 
