@@ -127,6 +127,8 @@
 
 [Hydropower Infrastructure - LAkes, Reservoirs, and RIvers](https://doi.org/10.21951/HILARRI/1781642) (HILARRI)
 
+[CAMELS with Atmospheric and Stream Water Chemistry Data](https://doi.org/10.5194/hess-2022-81) (CAMELS-Chem)
+
 
 ### Canada
 
