@@ -79,6 +79,8 @@
 
 [Hydrography90m](https://doi.org/10.5194/essd-14-4525-2022)
 
+[ASTER Global Water Bodies Database](https://lpdaac.usgs.gov/products/astwbdv001/) (ASTWBD)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
