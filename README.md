@@ -81,6 +81,8 @@
 
 [ASTER Global Water Bodies Database](https://lpdaac.usgs.gov/products/astwbdv001/) (ASTWBD)
 
+[Global Lakes Database](https://doi.org/10.5281/zenodo.7016548) (GLAKES)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
