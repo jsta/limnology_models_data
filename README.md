@@ -83,6 +83,8 @@
 
 [Global Lakes Database](https://doi.org/10.5281/zenodo.7016548) (GLAKES)
 
+[The Boreal–Arctic Wetland and Lake Dataset](https://doi.org/10.18739/A2C824F9X) (BAWLD)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
