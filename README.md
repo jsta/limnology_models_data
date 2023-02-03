@@ -85,6 +85,8 @@
 
 [The Boreal–Arctic Wetland and Lake Dataset](https://doi.org/10.18739/A2C824F9X) (BAWLD)
 
+[The pan-Arctic catchment database](https://doi.org/10.5194/essd-15-541-2023) (ARCADE)
+
 ### USA
 
 [USA National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla) [:package:](https://github.com/jsta/nlaR) (NLA)
