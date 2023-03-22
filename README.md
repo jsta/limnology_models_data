@@ -155,6 +155,9 @@
 
 [European Multi Lake Survey](https://doi.org/10.1038/sdata.2018.226)
 
+[Adaptive Management of Barriers in European Rivers](https://doi.org/10.6084/m9.figshare.12629051) (AMBER Barrier Atlas)
+
+
 ### UK
 
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
@@ -165,9 +168,11 @@
 
 [UK National River Flow Archive](https://nrfa.ceh.ac.uk/) (NRFA) [:package:](https://github.com/cvitolo/rnrfa)
 
+
 ### Australia
 
 [Australian Hydrological Geospatial Fabric](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
+
 
 ### Sweden
 
@@ -176,6 +181,7 @@
 [Swedish Lake Register](https://vattenwebb.smhi.se/svarwebb/)
 
 [SLU - long-term monitoring of lakes](https://miljodata.slu.se/MVM/Search)
+
 
 ### Switzerland
 
