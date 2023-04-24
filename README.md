@@ -167,7 +167,7 @@
 
 [UK - Water Framework Directive - Waterbodies](https://data.gov.uk/dataset/wfd-lake-waterbodies-cycle-21) (WFD)
 
-[UK Lakes Portal](https://eip.ceh.ac.uk/apps/lakes/index.html)
+[UK Lakes Portal](https://eip.ceh.ac.uk/apps/lakes)
 
 [Environment Agency - Water Quality Archive](https://environment.data.gov.uk/water-quality/view/doc/reference)
 
