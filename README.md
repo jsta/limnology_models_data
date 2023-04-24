@@ -89,7 +89,9 @@
 
 [Wetland Area and Dynamics for Methane Modeling](https://doi.org/10.5281/zenodo.5553187) (WAD2M)
 
-[Water bodies for the tundra and boreal biomes in North America](https://doi.org/10.11888/Hydro.tpdc.271021) (WBD-NAHL) 
+[Water bodies for the tundra and boreal biomes in North America](https://doi.org/10.11888/Hydro.tpdc.271021) (WBD-NAHL)
+
+[circum-Arctic Permafrost Region Pond and Lake database](https://doi.pangaea.de/10.1594/PANGAEA.868349) (PeRL)
 
 
 ### USA
