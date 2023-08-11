@@ -93,6 +93,8 @@
 
 [circum-Arctic Permafrost Region Pond and Lake database](https://doi.pangaea.de/10.1594/PANGAEA.868349) (PeRL)
 
+[A database of chlorophyll and water chemistry in freshwater lakes](https://doi.org/10.1038/s41597-020-00648-2)
+
 
 ### USA
 
