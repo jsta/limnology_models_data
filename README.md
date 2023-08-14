@@ -95,6 +95,8 @@
 
 [A database of chlorophyll and water chemistry in freshwater lakes](https://doi.org/10.1038/s41597-020-00648-2)
 
+[the SWOT River Database](http://gaia.geosci.unc.edu/SWORD/) (SWORD)
+
 
 ### USA
 
