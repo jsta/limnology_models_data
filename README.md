@@ -178,11 +178,6 @@
 [UK National River Flow Archive](https://nrfa.ceh.ac.uk/) (NRFA) [:package:](https://github.com/cvitolo/rnrfa)
 
 
-### Australia
-
-[Australian Hydrological Geospatial Fabric](http://www.bom.gov.au/water/geofabric/index.shtml) (AHGF)
-
-
 ### Sweden
 
 [Water Information System Sweden](http://viss.lansstyrelsen.se/Maps.aspx)
