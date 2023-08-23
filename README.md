@@ -116,8 +116,6 @@
 
 [USGS Dam Removal Science Database](https://doi.org/10.5066/P9IGEC9G)
 
-[National Lake Morphometry Database](https://catalog.data.gov/dataset/lake-morphometry-for-nhd-lakes-in-tennessee-region-6-huc-3e217)
-
 [A Reservoir Morphology Database for the Conterminous United States](https://doi.org/10.5066/F7GF0RQZ)
 
 [National Water-Quality Assessment Program](http://pubs.usgs.gov/ds/2005/152) (NAWQA)
