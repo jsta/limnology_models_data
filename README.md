@@ -272,6 +272,8 @@
 
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM) [:package:](https://github.com/GLEON/GLM3r)
 
+[Hydrologic Engineering Center's River Analysis System](https://www.hec.usace.army.mil/software/hec-ras/) (HEC-RAS)
+
 [HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
 
 [LAKE](https://mathmod.org/lake/)
