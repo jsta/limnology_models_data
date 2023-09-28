@@ -97,6 +97,8 @@
 
 [the SWOT River Database](http://gaia.geosci.unc.edu/SWORD/) (SWORD)
 
+[Global Dam Tracker](https://doi.org/10.1038/s41597-023-02008-2) (GDAT)
+
 
 ### USA
 
