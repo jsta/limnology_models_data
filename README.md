@@ -263,6 +263,8 @@
 
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
+[Environmental Fluid Dynamics Code+](https://github.com/dsi-llc/EFDCPlus) (EFDC+)
+
 [FLake](http://www.flake.igb-berlin.de/) [:package:](https://github.com/aemon-j/FLakeR)
 
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM) [:package:](https://github.com/GLEON/GLM3r)
