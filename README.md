@@ -259,6 +259,8 @@
 
 [AQUASIM](http://www.eawag.ch/en/department/siam/software/)
 
+[CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/)
+
 [CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
 
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
