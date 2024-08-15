@@ -41,7 +41,7 @@
 
 [Near-global environmental information for freshwater ecosystems in 1km resolution](https://www.earthenv.org/streams) (EarthEnv)
 
-[Reservoir and Lake Surface Area Timeseries](http://34.70.174.102/realsat/) (ReaLSAT)
+[Reservoir and Lake Surface Area Timeseries](https://doi.org/10.5281/zenodo.4118463) (ReaLSAT)
 
 [Global River Chemistry Database](https://www.geo.uni-hamburg.de/en/geologie/forschung/aquatische-geochemie/glorich.html) (GLORICH)
 
@@ -49,7 +49,7 @@
 
 [Global Reservoirs and Lakes Monitor](https://ipad.fas.usda.gov/cropexplorer/global_reservoir/) (G-REALM)
 
-[Time series of water levels in the rivers and lakes around the world](http://hydroweb.theia-land.fr/) (Hydroweb)
+[Time series of water levels in the rivers and lakes around the world](https://www.theia-land.fr/en/hydroweb/) (Hydroweb)
 
 [Global Georeferenced Database of Dams](https://doi.org/10.6084/m9.figshare.c.4648214.v1) (GOODD)
 
@@ -265,7 +265,7 @@
 
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
-[Environmental Fluid Dynamics Code+](https://github.com/dsi-llc/EFDCPlus) (EFDC+)
+[Environmental Fluid Dynamics Code+](https://github.com/dsi-llc/EFDCPlus_Stable) (EFDC+)
 
 [FLake](http://www.flake.igb-berlin.de/) [:package:](https://github.com/aemon-j/FLakeR)
 
