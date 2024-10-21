@@ -99,6 +99,8 @@
 
 [Global Dam Tracker](https://doi.org/10.1038/s41597-023-02008-2) (GDAT)
 
+[Global lake drainage topology and catchment database](https://doi.org/10.5194/essd-15-3483-2023) (Lake-TopoCat)
+
 
 ### USA
 
