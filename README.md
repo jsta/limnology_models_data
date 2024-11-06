@@ -255,10 +255,6 @@
 
 [BC Freshwater Atlas](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater) [:package:](https://github.com/poissonconsulting/fwabc)
 
-#### North American Great Lakes
-
-[Great Lakes Hydrography Dataset](https://www.glahf.org/watersheds/) (GLHD)
-
 ## Models
 
 [Advanced Lake Biogeochemistry Model](https://github.com/tanzeli1982/ALBM) (ALBM)
