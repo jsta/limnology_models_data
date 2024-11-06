@@ -101,7 +101,7 @@
 
 [Global lake drainage topology and catchment database](https://doi.org/10.5194/essd-15-3483-2023) (Lake-TopoCat)
 
-[Water storage dynamics for 27 000 lakes globally from](https://doi.org/10.5194/essd-16-201-2024) (GloLakes)
+[Water storage dynamics for 27 000 lakes globally](https://doi.org/10.5194/essd-16-201-2024) (GloLakes)
 
 
 ### USA
