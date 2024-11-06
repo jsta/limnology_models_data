@@ -152,6 +152,8 @@
 
 [CAMELS with Atmospheric and Stream Water Chemistry Data](https://doi.org/10.5194/hess-2022-81) (CAMELS-Chem)
 
+[Historical reservoir operations in the contiguous United States](https://doi.org/10.5281/zenodo.589364123) (ResOpsUS)
+
 
 ### Canada
 
