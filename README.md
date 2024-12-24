@@ -103,6 +103,8 @@
 
 [Water storage dynamics for 27 000 lakes globally](https://doi.org/10.5194/essd-16-201-2024) (GloLakes)
 
+[Surface water temperature observations and ice phenology estimations](https://doi.org/10.1016/j.rse.2024.114164) (LakeTEMP)
+
 
 ### USA
 
