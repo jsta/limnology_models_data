@@ -114,7 +114,7 @@
 
 [USA National Eutrophication Survey](https://doi.org/10.5194/essd-2017-52) [:package:](https://github.com/jsta/nesRdata) (NES)
 
-[USA National Hydography Dataset](http://nhd.usgs.gov/data.html) [:package:](https://github.com/jsta/nhdR) (NHD)
+[USA National Hydography Dataset](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) [:package:](https://github.com/jsta/nhdR) (NHD)
 
 [USA National Inventory of Dams](https://nid.sec.usace.army.mil/#/) [:package:](https://github.com/jsta/dams) (NID)
 
