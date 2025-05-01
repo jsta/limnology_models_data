@@ -105,6 +105,8 @@
 
 [Surface water temperature observations and ice phenology estimations](https://doi.org/10.1016/j.rse.2024.114164) (LakeTEMP)
 
+[Global Reservoir Inventory of Lost Storage by Sedimentation](https://doi.org/10.17605/OSF.IO/W4UG8) (GRILSS)
+
 
 ### USA
 
