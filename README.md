@@ -158,6 +158,8 @@
 
 [Historical reservoir operations in the contiguous United States](https://doi.org/10.5281/zenodo.5367382) (ResOpsUS)
 
+[Benchmark dataset for lake water quality time series and vertical profiles](https://doi.org/10.5194/essd-17-3141-2025) (LakeBeD-US)
+
 
 ### Canada
 
