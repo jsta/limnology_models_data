@@ -267,6 +267,8 @@
 
 [AQUASIM](http://www.eawag.ch/en/department/siam/software/)
 
+[ATS](https://github.com/amanzi/ats)
+
 [CaMa-Flood](http://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/)
 
 [CE-QUAL-W2](http://www.ce.pdx.edu/w2/)
@@ -286,6 +288,8 @@
 [LAKE](https://mathmod.org/lake/)
 
 [MyLake](https://github.com/biogeochemistry/MyLake_public) [:package:](https://github.com/aemon-j/MyLakeR)
+
+[Parflow](https://github.com/parflow/parflow)
 
 [Precipitation Runoff Modeling System](https://www.usgs.gov/software/precipitation-runoff-modeling-system-prms) (PRMS)
 
