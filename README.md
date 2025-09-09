@@ -283,7 +283,7 @@
 
 [Hydrologic Engineering Center's River Analysis System](https://www.hec.usace.army.mil/software/hec-ras/) (HEC-RAS)
 
-[HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
+[HYdrological Predictions for the Environment](https://sourceforge.net/projects/hype/files/) (HYPE)
 
 [Landlab](https://github.com/landlab/landlab)
 
