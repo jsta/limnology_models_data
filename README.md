@@ -285,6 +285,8 @@
 
 [HYdrological Predictions for the Environment](http://hypecode.smhi.se/) (HYPE)
 
+[Landlab](https://github.com/landlab/landlab)
+
 [LAKE](https://mathmod.org/lake/)
 
 [MyLake](https://github.com/biogeochemistry/MyLake_public) [:package:](https://github.com/aemon-j/MyLakeR)
