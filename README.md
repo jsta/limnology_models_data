@@ -19,8 +19,6 @@
 
 [Global Reservoir and Dam Database](https://doi.org/10.7927/H4HH6H08) (GranD)
 
-[Global Lake Database](http://www.flake.igb-berlin.de/old/ep-data.shtml) (GLDB)
-
 [Dams, lakes and reservoirs database](http://wwdrii.sr.unh.edu/) (World Water Development Report II) 
 
 [Database for Hydrological Time Series of Inland Waters](http://dahiti.dgfi.tum.de/en/) (DAHITI) [:package:](https://github.com/DHI-GRAS/dahiti)
@@ -276,8 +274,6 @@
 [Environmental Fluid Dynamics Code](https://www.epa.gov/exposure-assessment-models/environment-fluid-dynamics-code-efdc-download-page) (EFDC)
 
 [Environmental Fluid Dynamics Code+](https://github.com/dsi-llc/EFDCPlus_Stable) (EFDC+)
-
-[FLake](http://www.flake.igb-berlin.de/) [:package:](https://github.com/aemon-j/FLakeR)
 
 [General Lake Model](http://aed.see.uwa.edu.au/research/models/GLM/) (GLM) [:package:](https://github.com/GLEON/GLM3r)
 
