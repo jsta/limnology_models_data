@@ -167,6 +167,11 @@
 
 [IceWatch](https://www.naturewatch.ca/icewatch/)
 
+### China
+
+[Reservoir dataset in China](https://doi.org/10.5281/zenodo.7664489) (Res-CN)
+
+[High Resolution Water Quality Dataset of Chinese Lakes and Reservoirs from 2000 to 2023](https://doi.org/10.6084/m9.figshare.27626286.v2)
 
 ### Europe
 
