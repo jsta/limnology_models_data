@@ -21,4 +21,4 @@ jobs:
     - name: Checks
       run: |        
         gem install awesome_bot        
-        awesome_bot --allow-redirect --allow-dupe --allow 503,403 --set-timeout 100 --white-list "open.canada.ca" --white-list "bom.gov.au" --white-list "gov.bc.ca" --white-list "www.epa.gov" --white-list "ontario.ca" --allow-ssl README.md
+        awesome_bot --allow-redirect --allow-dupe --allow 503,403 --set-timeout 100 --white-list "environment.data.gov.uk" --white-list "open.canada.ca" --white-list "bom.gov.au" --white-list "gov.bc.ca" --white-list "www.epa.gov" --white-list "ontario.ca" --allow-ssl README.md
