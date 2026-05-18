@@ -179,7 +179,7 @@
 
 [European Environment Agency - Waterbase](http://www.eea.europa.eu/data-and-maps/data/waterbase-water-quality/) (EEA)
 
-[Water Framework Directive - Catchment Data Explorer](https://environment.data.gov.uk/catchment-planning/) [:package:](https://github.com/robbriers/cde)
+[Water Framework Directive - Catchment Data Explorer](https://environment.data.gov.uk/catchment-planning) [:package:](https://github.com/robbriers/cde)
 
 [European Multi Lake Survey](https://doi.org/10.1038/sdata.2018.226)
 
