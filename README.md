@@ -158,6 +158,8 @@
 
 [Benchmark dataset for lake water quality time series and vertical profiles](https://doi.org/10.5194/essd-17-3141-2025) (LakeBeD-US)
 
+[Tracer Injection Experiments in RiveRs And Streams](https://doi.org/10.5281/zenodo.15793577) (TIERRAS)
+
 
 ### Canada
 
